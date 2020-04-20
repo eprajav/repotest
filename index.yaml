@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  wordpress:
+  - apiVersion: v1
+    appVersion: 5.3.2
+    created: "2020-04-20T16:43:37.22286547+02:00"
+    description: This is chart tuned by eprajav to understand how to build my own
+      repo in github
+    digest: 7ec41afcad178c1e8c2c04d6d9e6dc595675400da202c50d79e0c1c492db915a
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - wordpress-9.0.3.tgz
+    version: 9.0.3
+generated: "2020-04-20T16:43:37.212651778+02:00"
